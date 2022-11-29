@@ -3,6 +3,8 @@
 ## Overview of the analysis
 For our project, we are asked Analyze a dataset of cryptocurrencies to help discover trends to propose a potential investment opportunity to a firm. We are using unsupervised machine earning to observe these cryptocurrency trends to present a comprehensive data anaylssi in order to maximise profits for our investments.
 
+To study our coding and anaylsis more closley, look at the Crypto_Clustering.ipynb file above
+
 ## Deliverable 1
 <img width="473" alt="Delierable 1 dataframe" src="https://user-images.githubusercontent.com/107444840/204631617-6d9ce9d1-74af-4747-9821-5e6ae3bf0669.png">
 
